@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Todo/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Todo/src" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/lexik/jwt-authentication-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/namshi/jose" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/nelmio/cors-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/ocramius/proxy-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/property-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/security-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/security-core" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/security-csrf" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/security-guard" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/security-http" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/Todo/vendor/zendframework/zend-eventmanager" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
